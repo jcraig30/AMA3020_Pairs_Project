@@ -11,4 +11,4 @@ Contents
 
 4. Figure showing shape of road for elliptical wheel with axle at centre from code
 
-5. figure showing shape of road for elliptical wheel with axle at one focus from code
+5. Figure showing shape of road for elliptical wheel with axle at one focus from code
