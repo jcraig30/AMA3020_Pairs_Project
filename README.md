@@ -3,7 +3,7 @@ Additional materials for square wheels project
 
 Contents 
 
-1. Derivations of road shapes for square wheel, elliptical wheel with axle at centre and elliptical wheel with axle at one focus
+1. More detailed derivations of road shapes for square wheel, elliptical wheel with axle at centre and elliptical wheel with axle at one focus
 
 2. Python code to show how measuring the radius of the wheel from the axle as a function of angle produces a visual of the required road shape
 
